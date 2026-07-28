@@ -1,0 +1,9 @@
+    Copyright (C) 2015 - 2026 TumeniNodes
+
+    CC-BY-SA 4.0 International
+    single_arch_door.obj
+    single_arch_door_half_open.obj
+    single_arch_door_open.obj
+    single_arch_door_centered.obj
+    single_arch_door_half_open_centered.obj
+    single_arch_door_open_centered.obj

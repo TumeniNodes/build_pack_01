@@ -1,0 +1,19 @@
+    =======================================================================
+TEXTURE ATTRIBUTIONS & CREDITS
+=======================================================================
+
+- single_arch_doors_castle_door.png
+  Modified by TumeniNodes.
+  Based on "doors_door_castle2.png" from the Doors Redux Mod v1.0 
+  by Leslie E. Krause / sorcerykid.
+  Licensed under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
+  Distributed under the same license terms.
+
+-----------------------------------------------------------------------
+
+- single_arch_doors_dungeon_door.png
+  Modified by TumeniNodes.
+  Based on "doors_door_dungeon1.png" from the Doors Redux Mod v1.0 
+  by Leslie E. Krause / sorcerykid.
+  Licensed under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
+  Distributed under the same license terms.

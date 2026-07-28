@@ -1,0 +1,9 @@
+    CC-by-SA 4.0 International
+    copyright (c) 2015-2026 TumeniNodes;
+
+    super_high_iron_fence.png
+    super_high_iron_fence_side.png
+    super_high_rusted_iron_fence.png
+    super_high_steel_fence.png
+    super_high_wood_fence.png
+    super_high_wrought_iron_fence.png

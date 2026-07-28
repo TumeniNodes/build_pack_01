@@ -1,0 +1,47 @@
+=======================================================================
+TEXTURE ATTRIBUTIONS & CREDITS
+=======================================================================
+- single_arch_doors_castle_door.png
+  Modified by TumeniNodes.
+  Based on "doors_door_castle2.png" from the Doors Redux Mod v1.0 
+  by Leslie E. Krause / sorcerykid.
+  Licensed under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
+  Distributed under the same license terms.
+
+- single_arch_doors_dungeon_door.png
+  Modified by TumeniNodes.
+  Based on "doors_door_dungeon1.png" from the Doors Redux Mod v1.0 
+  by Leslie E. Krause / sorcerykid.
+  Licensed under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
+  Distributed under the same license terms.
+
+=======================================================================
+AUDIO ATTRIBUTIONS & CREDITS
+=======================================================================
+- single_arch_doors_castle_door_close.ogg
+- single_arch_doors_castle_door_open.ogg
+
+Both sounds are derived from the same free .mp3 file below on July 25, 2026 
+by TumeniNodes using Audacity(R) 3.4.2, and kept under the same license:
+  * Raw File: universfield-old-wooden-door-402153.mp3
+  * Source URL: https://pixabay.com
+
+The sound effect is covered under the Pixabay Content License 
+( https://pixabay.com ).
+This is a custom, royalty-free license that grants a broad range of usage 
+rights, though it includes a few specific restrictions:
+
+== What You Can Do ==
+  * Free Commercial & Non-Commercial Use: You can use the audio in both 
+    personal and money-making projects (such as films, video games, or podcasts) 
+    without paying royalties.
+  * No Attribution Required: You do not have to give credit to Universfield 
+    or Pixabay, though it is always appreciated.
+  * Modification: You can safely remix, edit, mono-downmix, or loop the track 
+    to fit your specific audio needs.
+
+== What You Cannot Do ==
+  * No Standalone Redistribution: You cannot sell, redistribute, or share 
+    the audio track exactly as it is on other stock media sites or audio libraries.
+  * No Deceptive Use: You cannot use the sound effect in illegal, misleading, 
+    or immoral contexts.
