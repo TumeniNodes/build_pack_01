@@ -24,7 +24,7 @@ AUDIO ATTRIBUTIONS & CREDITS
 Both sounds are derived from the same free .mp3 file below on July 25, 2026 
 by TumeniNodes using Audacity(R) 3.4.2, and kept under the same license:
   * Raw File: universfield-old-wooden-door-402153.mp3
-  * Source URL: https://pixabay.com
+  * Source URL: https://pixabay.com/no/sound-effects/husstand-old-wooden-door-402153/
 
 The sound effect is covered under the Pixabay Content License 
 ( https://pixabay.com ).
