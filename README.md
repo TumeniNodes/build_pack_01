@@ -38,4 +38,4 @@ Engineered specifically to fit seamlessly underneath your single-arch shapes. Fe
 * **Code:** CC-BY-SA 4.0 (See LICENSE file)
 * **Textures & Media:** CC-BY-SA 4.0 (See LICENSE file)
 
-![Mod Pack Screenshot](screenshot.png)
+![Mod Pack Screenshot](https://raw.githubusercontent.com/TumeniNodes/build_pack_01/refs/heads/master/screenshot.png)
