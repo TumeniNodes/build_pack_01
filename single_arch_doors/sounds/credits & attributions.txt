@@ -1,24 +1,66 @@
 =======================================================================================================
-    single_arch_doors_castle_door_close.ogg (Pixabay Content License)
-    single_arch_doors_castle_door_open.ogg (Pixabay Content License)
-    
-    Both sounds are derived from the same free .mp3 file below on July 25, 2026 by TumeniNodes using Audacity(R) 3.4.2, and kept under the same license (which is available here https://pixabay.com/service/license-summary/ ) 
+    single_arch_doors_castle_door_close.ogg (CC0) derivative by TumeniNodes
+    single_arch_doors_castle_door_open.ogg (CC0) derivative by TumeniNodes
 
-    universfield-old-wooden-door-402153.mp3
-    https://pixabay.com/no/sound-effects/husstand-old-wooden-door-402153/
-    
-    The sound effect is covered under the Pixabay Content License.
-    This is a custom, royalty-free license that grants you a broad range of usage rights, though it includes a few specific restrictions.
+Source Files:
 
-==  What You Can Do; ==
-    * Free Commercial & Non-Commercial Use:
-    * You can use the audio in both personal and money-making projects, (like YouTube videos, films, video games, or podcasts), without paying royalties.
-    * No Attribution Required: You do not have to give credit to Universfield or Pixabay, though it is always appreciated by the creator community.
-    * Modification: You can safely remix, edit, or loop the track to fit your specific audio needs.
+Door, opening #3
+https://bigsoundbank.com/door-opening-3-s2430.html
+You are allowed to:
 
-==  What You Cannot Do; ==
-    * No Standalone Redistribution: You cannot sell, redistribute, or share the audio track exactly as it is on other stock media sites, wallpapers, or audio libraries.
-    * No Deceptive Use: You cannot use the sound effect in illegal, misleading, or immoral contexts.
+    Share, copy, distribute and communicate the material by all means and in all formats.
+    Adapt, remix, transform and create from material.
+    Use, including for commercial purposes.
+    Without any restrictions.
+    Without asking permission.
 
-=======================================================================================================
+This is:
+
+    Creative Commons CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+Technical details
+
+Length: 00:02
+UCS Category: Doors / Plastic (DOORPlas)
+Type: Alone sound
+Channels: Monophonic
+Conditions: Indoor
+Realism: Realistic
+Sampling Rate: 48,000 Hz
+Bit Depth: 24 bits
+Equipment: SoundDevices MixPre-3 + Sennheiser ME66
+Author: Joseph SARDIN
+Sound number: 2,430
+
+==========================================================================================
+
+Door, closing #3
+https://bigsoundbank.com/door-closing-3-s2433.html
+You are allowed to:
+
+    Share, copy, distribute and communicate the material by all means and in all formats.
+    Adapt, remix, transform and create from material.
+    Use, including for commercial purposes.
+    Without any restrictions.
+    Without asking permission.
+
+This is:
+
+    Creative Commons CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+Technical details
+
+Length: 00:02
+UCS Category: Doors / Plastic (DOORPlas)
+Type: Alone sound
+Channels: Monophonic
+Conditions: Indoor
+Realism: Realistic
+Sampling Rate: 48,000 Hz
+Bit Depth: 24 bits
+Equipment: SoundDevices MixPre-3 + Sennheiser ME66
+Author: Joseph SARDIN
+Sound number: 2,433
 
