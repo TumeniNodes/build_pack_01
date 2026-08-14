@@ -6,9 +6,9 @@ This mod implements space-saving, full-height and low partition wall elements. I
 
 ## Features
 
-* **Modular Elements:** Standard Thin Walls, Two-Way, Three-Way, and Four-Way intersections.
-* **Vertical Gradients:** Includes Low Thin Walls and transitional High-to-Low or Low-to-High variants for clean visual grading.
-* **Material Spectrum:** Integrates seamlessly across 24 core materials covering heavy stone varieties, fired brick/clay, and all default timber boards.
+* **Various Nodes:** Standard Thin Walls, Two-Way, Three-Way, and Four-Way intersections.
+* **Modular Walls:** Includes Low Thin Walls and transitional High-to-Low or Low-to-High variants for clean visual grading.
+* **Materials:** Integrates seamlessly across 24 core materials covering heavy stone varieties, fired brick/clay, and all default timber boards.
 
 ## Installation
 
@@ -16,4 +16,5 @@ Ensure this folder is placed inside your world's `mods/` directory or parent mod
 
 ## License
 
-* **Code and Media:** CC-BY-SA 4.0 (See LICENSE)
+* **Source Code:** MIT License (See `LICENSE` for details)
+* **Media Assets:** CC-BY-SA 4.0 (See `LICENSE` for details)

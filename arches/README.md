@@ -6,8 +6,8 @@ This mod adds highly customizable nodebox arch blocks and interlocking junction 
 
 ## Features
 
-* **Varied Geometries:** Standard Arches, Half Arches, Thin Arches, Thin-Half Arches, and multi-way intersections (Two-Way, Three-Way, and Four-Way variants).
-* **Material Palette:** Fully supports 24 vanilla materials including Brick, Clay, Cobble, Mossy Cobble, Stone Block/Brick, Sandstone Block/Brick, and all default wood types.
+* **Various Nodes:** Standard Arches, Half Arches, Thin Arches, Thin-Half Arches, and multi-way intersections (Two-Way, Three-Way, and Four-Way variants).
+* **Materials:** Fully supports 24 vanilla materials including Brick, Clay, Cobble, Mossy Cobble, Stone Block/Brick, Sandstone Block/Brick, and all default wood types.
 * **Survival Ready:** Features fully integrated crafting recipes that dynamically adapt outputs based on the material volume utilized.
 
 ## Installation
@@ -16,4 +16,5 @@ Ensure this folder is placed inside your world's `mods/` directory or parent mod
 
 ## License
 
-* **Code and Media:** CC-BY-SA 4.0 (See LICENSE)
+* **Source Code:** MIT License (See `LICENSE` for details)
+* **Media Assets:** CC-BY-SA 4.0 (See `LICENSE` for details)

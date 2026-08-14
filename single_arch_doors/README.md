@@ -16,4 +16,5 @@ Ensure this folder is placed inside your world's `mods/` directory or parent mod
 
 ## License
 
-* **Code and Media:** CC-BY-SA 4.0 (See LICENSE)
+* **Source Code:** MIT License (See `LICENSE` for details)
+* **Media Assets:** CC-BY-SA 4.0 (See `LICENSE` for details)

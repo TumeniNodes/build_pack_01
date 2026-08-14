@@ -1,8 +1,8 @@
 ======================================================================
-[Mod]THIN WALLS [thin_walls] - LICENSE INFORMATION
+[Mod]PORTCULLIS [portcullis] - LICENSE INFORMATION
 ======================================================================
-Current Version: 1.0
-Author:          Copyright (c) 2015-2026 TumeniNodes
+Current Version: 0.1
+Author:          TumeniNodes
 Last Updated:    August 13, 2026
 Code = MIT
 Media = CC-BY-SA 4.0
@@ -19,17 +19,21 @@ licensed under the MIT License.
 
 [2] MEDIA ASSETS LICENSING (Textures & Models)
 -----------------------------------------------
-All media assets associated with this mod are strictly licensed under the 
+All media assets listed below are strictly licensed under the 
 Creative Commons Attribution-ShareAlike 4.0 International License 
 (CC-BY-SA 4.0). 
 
-Copyright (c) 2015-2026 TumeniNodes
+Copyright (c) 2015-2016 TumeniNodes
 
 TEXTURES:
-  - (List your texture files here, e.g., thin_walls_brick.png)
+  - rusted.png
+  - steel.png
+  - wrought_iron.png
 
 MODELS:
-  - (List your model files here if applicable, e.g., thin_walls_nodebox.obj)
+  - portcullis.obj
+  - portcullis_half.obj
+  - portcullis_open.obj
 
 
 [3] USER RIGHTS & CONDITIONS (CC-BY-SA 4.0)

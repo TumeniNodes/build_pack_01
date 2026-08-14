@@ -1,21 +1,43 @@
-    
-    Single Arch Doors Mod -- Copyright (c) 2015-2026 TumeniNodes
-Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0).
+[Mod]Single Arch Doors [single_arch_doors] [Ver. 0,1] -- Copyright (c) 2015-2026 TumeniNodes
+Licensed under the MIT License and Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0).
 
-You are free to share, copy, distribute, modify, and build upon this code and its texture/mesh assets, provided that you give appropriate credit to TumeniNodes and distribute your contributions under the identical CC-BY-SA 4.0 license terms.
+============================
+CODE LICENSE INFORMATION
+============================
+As of August 13, 2026, the source code for this mod is officially
+licensed under the MIT License.
+
+* Note: Any copies of the source code obtained PRIOR to August 13, 2026,
+  remain bound under the terms of the CC-BY-SA 4.0 International License.
+
+You are granted broad permission to use, copy, modify, merge, publish,
+distribute, sublicense, and sell copies of the software code, provided
+that you include the original author copyright notice and this permission
+notice in all copies or substantial portions of the software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED.
+
+============================
+MEDIA LICENSE INFORMATION
+============================
+Unless Otherwise Noted Below, all texture, mesh, and media assets
+are strictly licensed under the Creative Commons Attribution-ShareAlike
+4.0 International License (CC-BY-SA 4.0).
+
+You are free to share, copy, distribute, modify, and build upon these
+assets, provided that you give appropriate credit to TumeniNodes and
+distribute your contributions under the identical CC-BY-SA 4.0 license terms.
 
 For the full legal code text of this license, please refer to:
 https://creativecommons.org
-
-All code, and media
-Unless Otherwise Noted Below:
 
 ==============================
 TEXTURE ATTRIBUTIONS & CREDITS
 ==============================
 
 - single_arch_doors_castle_door.png CC BY-SA 3.0 Unported | derivative by TumeniNodes.
-* Based on "doors_door_castle2.png" from the Doors Redux Mod v1.0 
+* Based on "doors_door_castle2.png" from the Doors Redux Mod v1.0
   by Leslie E. Krause / sorcerykid.
   Licensed under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
   Distributed under the same license terms.
@@ -23,25 +45,23 @@ TEXTURE ATTRIBUTIONS & CREDITS
 -----------------------------------------------------------------------
 
 - single_arch_doors_dungeon_door.png CC BY-SA 3.0 Unported | derivative by TumeniNodes.
-* Based on "doors_door_dungeon1.png" from the Doors Redux Mod v1.0 
+* Based on "doors_door_dungeon1.png" from the Doors Redux Mod v1.0
   by Leslie E. Krause / sorcerykid.
   Licensed under Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0).
   Distributed under the same license terms.
 
-
-
 ============================
-Audio ATTRIBUTIONS & CREDITS
+AUDIO ATTRIBUTIONS & CREDITS
 ============================
-    single_arch_doors_castle_door_close.ogg CC0 1.0 Universal | derivative by TumeniNodes
-    single_arch_doors_castle_door_open.ogg CC0 1.0 Universal | derivative by TumeniNodes
+
+- single_arch_doors_castle_door_close.ogg CC0 1.0 Universal | derivative by TumeniNodes
+- single_arch_doors_castle_door_open.ogg CC0 1.0 Universal | derivative by TumeniNodes
 
 Source Files:
 
 Door, opening #3
 https://bigsoundbank.com/door-opening-3-s2430.html
 You are allowed to:
-
     Share, copy, distribute and communicate the material by all means and in all formats.
     Adapt, remix, transform and create from material.
     Use, including for commercial purposes.
@@ -53,25 +73,23 @@ This is:
 https://creativecommons.org/publicdomain/zero/1.0/deed.en
 
 Technical details
-
-Length: 00:02
-UCS Category: Doors / Plastic (DOORPlas)
-Type: Alone sound
-Channels: Monophonic
-Conditions: Indoor
-Realism: Realistic
-Sampling Rate: 48,000 Hz
-Bit Depth: 24 bits
-Equipment: SoundDevices MixPre-3 + Sennheiser ME66
-Author: Joseph SARDIN
-Sound number: 2,430
+    Length: 00:02
+    UCS Category: Doors / Plastic (DOORPlas)
+    Type: Alone sound
+    Channels: Monophonic
+    Conditions: Indoor
+    Realism: Realistic
+    Sampling Rate: 48,000 Hz
+    Bit Depth: 24 bits
+    Equipment: SoundDevices MixPre-3 + Sennheiser ME66
+    Author: Joseph SARDIN
+    Sound number: 2,430
 
 -------------------------------------------------------------------------------------------
 
 Door, closing #3
 https://bigsoundbank.com/door-closing-3-s2433.html
 You are allowed to:
-
     Share, copy, distribute and communicate the material by all means and in all formats.
     Adapt, remix, transform and create from material.
     Use, including for commercial purposes.
@@ -83,15 +101,14 @@ This is:
 https://creativecommons.org/publicdomain/zero/1.0/deed.en
 
 Technical details
-
-Length: 00:02
-UCS Category: Doors / Plastic (DOORPlas)
-Type: Alone sound
-Channels: Monophonic
-Conditions: Indoor
-Realism: Realistic
-Sampling Rate: 48,000 Hz
-Bit Depth: 24 bits
-Equipment: SoundDevices MixPre-3 + Sennheiser ME66
-Author: Joseph SARDIN
-Sound number: 2,433
+    Length: 00:02
+    UCS Category: Doors / Plastic (DOORPlas)
+    Type: Alone sound
+    Channels: Monophonic
+    Conditions: Indoor
+    Realism: Realistic
+    Sampling Rate: 48,000 Hz
+    Bit Depth: 24 bits
+    Equipment: SoundDevices MixPre-3 + Sennheiser ME66
+    Author: Joseph SARDIN
+    Sound number: 2,433

@@ -1,7 +1,60 @@
-Super High Fences Mod -- Copyright (c) 2015-2026 TumeniNodes
-Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0).
+======================================================================
+[Mod]SUPER HIGH FENCES [super_high] - LICENSE INFORMATION
+======================================================================
+Current Version: 1.0
+Author:          Copyright (c) 2015-2026 TumeniNodes
+Last Updated:    August 13, 2026
+Code = MIT
+Media = CC-BY-SA 4.0
+----------------------------------------------------------------------
 
-You are free to share, copy, distribute, modify, and build upon this code and its texture assets, provided that you give appropriate credit to TumeniNodes and distribute your contributions under the identical CC-BY-SA 4.0 license terms.
+[1] SOURCE CODE LICENSING
+-------------------------
+As of August 13, 2026, the source code for this mod is officially 
+licensed under the MIT License. 
 
-For the full legal code text of this license, please refer to:
+* Note: Any copies of the source code obtained PRIOR to August 13, 2026, 
+  remain bound under the terms of the CC-BY-SA 4.0 International License.
+
+
+[2] MEDIA ASSETS LICENSING (Textures & Models)
+-----------------------------------------------
+All media assets associated with this mod are strictly licensed under the 
+Creative Commons Attribution-ShareAlike 4.0 International License 
+(CC-BY-SA 4.0). 
+
+Copyright (c) 2015-2026 TumeniNodes
+
+TEXTURES:
+  - (List your texture files here, e.g., super_high_wood.png)
+
+MODELS:
+  - (List your model files here if applicable, e.g., super_high_panel.obj)
+
+
+[3] USER RIGHTS & CONDITIONS (CC-BY-SA 4.0)
+--------------------------------------------
+You are completely free to share, copy, distribute, modify, and build 
+upon the media assets (and legacy source code), provided that you:
+
+  * ATTRIBUTION: Give appropriate credit to TumeniNodes.
+  * SHARE-ALIKE: Distribute any of your derivative contributions under 
+    the identical CC-BY-SA 4.0 license terms.
+
+For the full legal text of this license, please visit:
 https://creativecommons.org
+
+
+[4] USER RIGHTS & CONDITIONS (MIT)
+----------------------------------
+You are granted broad permission to use, copy, modify, merge, publish, 
+distribute, sublicense, and sell copies of the software code, provided 
+that you:
+
+  * COPYRIGHT NOTICE: Include the original author copyright notice and 
+    this permission notice in all copies or substantial portions of 
+    the software.
+  * NO WARRANTY: Accept that the software is provided "as is", without 
+    warranty of any kind, express or implied.
+======================================================================
+

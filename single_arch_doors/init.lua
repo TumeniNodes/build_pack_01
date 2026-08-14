@@ -1,5 +1,5 @@
--- Single arch doors standalone mod for Minetest Game
--- Copyright (c) 2015-2026 TumeniNodes
+-- [Mod]Single Arch Doors [single_arch_doors] (Ver. 0.1) for Minetest Game
+-- MIT Copyright (c) 2015-2026 TumeniNodes
 
 single_arch_doors = {
 
@@ -12,7 +12,7 @@ single_arch_doors = {
         sound_close = "single_arch_doors_castle_door_close",
         gain_open = 0.2,
         gain_close = 0.2,
-        has_centered = true, 
+        has_centered = true,
     },
 
     ["dungeon"] = {

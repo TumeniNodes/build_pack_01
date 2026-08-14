@@ -1,4 +1,4 @@
--- Super High Bars, Fence, Windows for Minetest Game
+-- [Mod]Super High [super_high] (Ver. 0.1) for Minetest Game
 -- Copyright (c) 2015-2026 TumeniNodes
 
 super_high = {}
@@ -69,9 +69,13 @@ function super_high.register_fence(name, desc, tiles, sounds, groups, recipeitem
 		}
 	})
 
+    -----------
 	-- Crafting
+	-----------
+
 	if recipeitem then
-		-- Craft Standard Fence (Tall 3x1 pillar recipe layout)
+
+		-- Craft Fence
 		minetest.register_craft({
 			output = "super_high:" .. name .. "_fence 2",
 			recipe = {
@@ -81,7 +85,7 @@ function super_high.register_fence(name, desc, tiles, sounds, groups, recipeitem
 			}
 		})
 
-		-- Craft Corner using standard fences
+		-- Craft Corner
 		minetest.register_craft({
 			output = "super_high:" .. name .. "_fence_corner 2",
 			recipe = {
@@ -89,7 +93,7 @@ function super_high.register_fence(name, desc, tiles, sounds, groups, recipeitem
 			}
 		})
 
-		-- Craft ICorner using standard fences
+		-- Craft ICorner
 		minetest.register_craft({
 			output = "super_high:" .. name .. "_fence_icorner 2",
 			recipe = {

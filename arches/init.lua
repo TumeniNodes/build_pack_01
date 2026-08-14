@@ -1,4 +1,5 @@
--- [MOD] Arches [arches] (1.2) by TumeniNodes
+-- [Mod]Arches [arches] (Ver. 0.1) for Minetest Game
+-- Copyright (c) 2015-2026 TumeniNodes
 
 arches = {}
 
@@ -60,8 +61,12 @@ function arches.register_arch_half(subname, groups, images, description, sounds)
 	})
 end
 
--- MULTI-WAY ARCHES (Two Way, Three Way, Four Way)
+---------
+-- ARCHES
+---------
 function arches.register_arch_variants(subname, groups, images, description, sounds)
+
+--  Two Way
 	minetest.register_node("arches:arch_two_way_" .. subname, {
 		description = description .. " (Two Way)",
 		drawtype = "nodebox",
@@ -92,6 +97,7 @@ function arches.register_arch_variants(subname, groups, images, description, sou
 		}
 	})
 
+--  Three Way
 	minetest.register_node("arches:arch_three_way_" .. subname, {
 		description = description .. " (Three Way)",
 		drawtype = "nodebox",
@@ -122,6 +128,7 @@ function arches.register_arch_variants(subname, groups, images, description, sou
 		}
 	})
 
+--  Four Way
 	minetest.register_node("arches:arch_four_way_" .. subname, {
 		description = description .. " (Four Way)",
 		drawtype = "nodebox",
@@ -157,8 +164,13 @@ function arches.register_arch_variants(subname, groups, images, description, sou
 	})
 end
 
+--------------
 -- THIN ARCHES
+--------------
+
 function arches.register_arch_thin(subname, groups, images, description, sounds)
+
+--  Thin
 	minetest.register_node("arches:arch_thin_" .. subname, {
 		description = description .. " (Thin)",
 		drawtype = "nodebox",
@@ -185,6 +197,7 @@ function arches.register_arch_thin(subname, groups, images, description, sounds)
 		}
 	})
 
+--  Thin Half
 	minetest.register_node("arches:arch_thin_half_" .. subname, {
 		description = description .. " (Thin Half)",
 		drawtype = "nodebox",
@@ -221,8 +234,12 @@ function arches.register_all_arches(subname, groups, images, description, sounds
 	arches.register_arch_variants(subname, groups, images, description, sounds)
 	arches.register_arch_thin(subname, groups, images, description, sounds)
 
-	-- Crafting
+-----------
+-- Crafting
+-----------
+
 	if recipeitem then
+
 		-- Standard Arch
 		minetest.register_craft({
 			output = "arches:arch_" .. subname .. " 4",
@@ -277,6 +294,10 @@ function arches.register_all_arches(subname, groups, images, description, sounds
 		})
 	end
 end
+
+---------------------
+-- Register Materials
+---------------------
 
 arches.register_all_arches(
 	"brick",
