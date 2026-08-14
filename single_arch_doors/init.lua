@@ -10,8 +10,8 @@ single_arch_doors = {
         sounds = default.node_sound_wood_defaults(),
         sound_open = "single_arch_doors_castle_door_open",
         sound_close = "single_arch_doors_castle_door_close",
-        gain_open = 0.2,
-        gain_close = 0.2,
+        gain_open = 0.5,
+        gain_close = 0.5,
         has_centered = true,
     },
 
@@ -22,13 +22,12 @@ single_arch_doors = {
         sounds = default.node_sound_metal_defaults(),
         sound_open = "single_arch_doors_castle_door_open",
         sound_close = "single_arch_doors_castle_door_close",
-        gain_open = 0.2,
-        gain_close = 0.2,
+        gain_open = 0.5,
+        gain_close = 0.5,
         has_centered = true,
     },
 }
 
--- Handles timed smooth multi-state door animations
 local function swap_door_state(pos, mat_key, next_state, delay, final_state)
     minetest.after(delay, function()
         local current = minetest.get_node(pos)
