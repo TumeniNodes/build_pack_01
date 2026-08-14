@@ -1,5 +1,5 @@
 ======================================================================
-[Mod]PORTCULLIS [portcullis] - LICENSE INFORMATION
+[Mod]PORTCULLIS [portcullis] (Ver. 0.1) - LICENSE INFORMATION
 ======================================================================
 Current Version: 0.1
 Author:          TumeniNodes
@@ -17,8 +17,8 @@ licensed under the MIT License.
   remain bound under the terms of the CC-BY-SA 4.0 International License.
 
 
-[2] MEDIA ASSETS LICENSING (Textures & Models)
------------------------------------------------
+[2] MEDIA ASSETS LICENSING (Textures & Models & Sounds)
+-------------------------------------------------------
 All media assets listed below are strictly licensed under the 
 Creative Commons Attribution-ShareAlike 4.0 International License 
 (CC-BY-SA 4.0). 
@@ -34,6 +34,10 @@ MODELS:
   - portcullis.obj
   - portcullis_half.obj
   - portcullis_open.obj
+
+SOUNDS:
+  - portcullis_close.ogg (See Attribution List At Bottom)
+  - portcullis_open.ogg  (See Attribution List At Bottom)
 
 
 [3] USER RIGHTS & CONDITIONS (CC-BY-SA 4.0)
@@ -60,5 +64,19 @@ that you:
     the software.
   * NO WARRANTY: Accept that the software is provided "as is", without 
     warranty of any kind, express or implied.
+======================================================================
+
+[5] EXTERNAL ASSET ATTRIBUTIONS
+-------------------------------
+The audio assets utilized in this modification are derivative works 
+compiled from external components under public domain designations:
+
+  * portcullis_open.ogg is a derivative of:
+    "coinpress_insert.wav" by Mihacappy (https://freesound.org/s/859211/)
+    Licensed under Creative Commons 0 (CC0 1.0 Universal).
+
+  * portcullis_close.ogg is a derivative of:
+    "Dragging Cardboard Box" by IENBA (https://freesound.org/s/864763/)
+    Licensed under Creative Commons 0 (CC0 1.0 Universal).
 ======================================================================
 
