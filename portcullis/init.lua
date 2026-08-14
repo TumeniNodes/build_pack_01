@@ -91,7 +91,7 @@ function super_high.register_portcullis(name, desc, tiles, groups, sounds, recip
 		drawtype = "mesh",
 		mesh = "portcullis.obj",
 		tiles = tiles,
-		use_texture_alpha = "clip",
+		use_texture_alpha = "blend",
 		paramtype = "light",
 		paramtype2 = "facedir",
 		groups = closed_groups,
@@ -116,7 +116,7 @@ function super_high.register_portcullis(name, desc, tiles, groups, sounds, recip
 		drawtype = "mesh",
 		mesh = "portcullis_half.obj",
 		tiles = tiles,
-		use_texture_alpha = "clip",
+		use_texture_alpha = "blend",
 		paramtype = "light",
 		paramtype2 = "facedir",
 		groups = {not_in_creative_inventory = 1},
@@ -149,7 +149,7 @@ function super_high.register_portcullis(name, desc, tiles, groups, sounds, recip
 		drawtype = "mesh",
 		mesh = "portcullis_open.obj",
 		tiles = tiles,
-		use_texture_alpha = "clip",
+		use_texture_alpha = "blend",
 		paramtype = "light",
 		paramtype2 = "facedir",
 		groups = {not_in_creative_inventory = 1},
@@ -181,7 +181,7 @@ super_high.register_portcullis(
 
 super_high.register_portcullis(
 	"wrought_iron", "Wrought Iron",
-	{"default_obsidian.png^[transformR90"},
+	{"portcullis_wrought_iron.png"},
 	{cracky = 1, level = 2},
 	default.node_sound_metal_defaults(),
 	"default:iron_lump"
@@ -189,7 +189,7 @@ super_high.register_portcullis(
 
 super_high.register_portcullis(
 	"steel", "Steel",
-	{"default_stone.png^[transformR90"},
+	{"portcullis_steel.png"},
 	{cracky = 1, level = 2},
 	default.node_sound_metal_defaults(),
 	"default:steel_ingot"
@@ -197,7 +197,7 @@ super_high.register_portcullis(
 
 super_high.register_portcullis(
 	"rusted_iron", "Rusted Iron",
-	{"default_rainforest_litter.png"},
+	{"portcullis_rusted.png"},
 	{cracky = 1, level = 2},
 	default.node_sound_metal_defaults(),
 	"default:dirt"
