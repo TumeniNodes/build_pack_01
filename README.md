@@ -31,4 +31,4 @@ This collection provides advanced structural elements, automated systems, and hi
 * **Source Code:** MIT License (See `LICENSE` for details)
 * **Media Assets:** CC-BY-SA 4.0 (See `LICENSE` for details)
 
-![Screenshot](portcullis.png)
+![Screenshot](screenshot.png)
