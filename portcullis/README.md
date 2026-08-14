@@ -18,3 +18,5 @@ To place a portcullis next to another, Shift/Right-Click
 
 * **Code:** MIT
 * **Media:** CC-BY-SA 4.0 (See LICENSE)
+
+![Screenshot](Screenshot.png)
