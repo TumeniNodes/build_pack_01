@@ -1,0 +1,105 @@
+===============================================================================
+[Mod]Drawbridge [drawbridge] [Ver. o.1]
+Copyright (c) 2015-2016 TumeniNodes
+===============================================================================
+Mod Name: drawbridge
+Author:   TumeniNodes
+Year:     2026
+===============================================================================
+
+-------------------------------------------------------------------------------
+CODE LICENSE (MIT LICENSE)
+-------------------------------------------------------------------------------
+Copyright (c) 2015-2026 TumeniNodes
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+MEDIA ASSETS LICENSE (CC-BY-SA 4.0)
+-------------------------------------------------------------------------------
+Copyright (c) 2015-2026 TumeniNodes
+
+The textures listed below are modified derivatives of the default textures 
+from Minetest Game. Both the original source assets and these modified versions 
+are licensed under the Creative Commons Attribution-ShareAlike 4.0 International 
+License (CC-BY-SA 4.0).
+
+You are free to share and adapt these assets, provided you give appropriate 
+credit to the Minetest Development Team and TumeniNodes, and distribute your 
+contributions under the same license umbrella.
+
+  --Modified Texture Assets:
+  * bridge_acacia.png
+  * bridge_aspen.png
+  * bridge_junglewood.png
+  * bridge_pine.png
+  * bridge_wood.png
+  * bridge_old_oak.png
+  * bridge_bindings_overlay.png
+
+  --Models:
+  * drawbridge.obj (and source bbmodel)
+  * drawbridge_20.obj (and source bbmodel)
+  * drawbridge_70.obj (and source bbmodel)
+  * drawbridge_half.obj (and source bbmodel)
+  * drawbridge_raised.obj (and source bbmodel)
+  * gate_lever_down.obj (and source bbmodel)
+  * gate_lever_up.obj (and source bbmodel)
+
+  --Screenshots--
+  * drawbridge_lineup.png
+  * lowered_drawbridge.png
+  * raised_drawbridge.png
+  * the_expanse.png
+  * what's_in_the_box.png
+
+-------------------------------------------------------------------------------
+AUDIO ATTRIBUTION & DERIVATION LOG
+-------------------------------------------------------------------------------
+The audio assets utilized in this mod are derivatives compiled by TumeniNodes,
+and released under the same licenses:
+
+  * "lever_click.ogg" Creative Commons 0 (Public Domain Dedication)
+        Modified/Derived from: "drawer_close.wav" by j1987
+        Source URL: https://freesound.org
+        Original License: Creative Commons 0 (Public Domain Dedication)
+
+  * "drawbridge.ogg" Creative Commons Attribution 4.0 (CC-BY 4.0)
+        Modified/Derived from: "Gear Clink.wav" by dpmakestuff1
+        Source URL: https://freesound.org
+        Original License: Creative Commons Attribution 4.0 (CC-BY 4.0)
+
+-------------------------------------------------------------------------------
+UPSTREAM COMPATIBILITY & ENGINE DISCLAIMER
+-------------------------------------------------------------------------------
+Copied or Modified Minetest Game / Luanti Code (LGPL 2.1)
+
+Sections of code copied, modified, or derived directly from Minetest Game 
+or the Luanti engine core files (including original sound setups, default API 
+sound calls, and baseline game logic rules) remain the property of the 
+Minetest/Luanti Development Team and contributors.
+
+These specific sections are bound to their original license:
+GNU Lesser General Public License version 2.1 (LGPL-2.1).
+
+Full license text details can be viewed online at:
+https://gnu.org
+===============================================================================
+
+

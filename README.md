@@ -11,6 +11,7 @@ This collection provides advanced structural elements, automated systems, and hi
 * **Single Arch Doors (`single_arch_doors`):** Custom-meshed doors shaped to place cleanly underneath masonry arches without clipping.
 * **Thin Walls (`thin_walls`):** Full-height and low partition wall dividers that fit into partial node offsets to maximize interior space.
 * **Super High Fences (`super_high`):** Triple-height boundary panels and columns created for fortifications, and perimeter control, and can be used as windows.
+* **Drawbridge (`drawbridge`):** Four node x three node drawbridge, with control lever. Maybe useful for CTF games (if allowed).
 
 ## Shared Features
 
